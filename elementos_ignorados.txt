@@ -1,0 +1,6 @@
+#include - No reconocido. Línea: 2, Columna: 1
+"); - No reconocido. Línea: 7, Columna: 48
+'0'; - No reconocido. Línea: 8, Columna: 27
+'\n'); - No reconocido. Línea: 9, Columna: 28
+|| - No reconocido. Línea: 10, Columna: 22
+%d\n", - No reconocido. Línea: 11, Columna: 28
