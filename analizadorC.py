@@ -40,6 +40,6 @@ def obtener_componentes_c(contenido, archivo_tokens="tokens_validos.txt", archiv
     return tokens_validos
 
 if __name__ == "__main__":
-    with open("codigo_c.c", "r", encoding="utf-8") as f:
+    with open("Cfiles/ejercicio_1.c", "r", encoding="utf-8") as f:
         contenido = f.read()
     obtener_componentes_c(contenido)

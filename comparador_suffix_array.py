@@ -55,4 +55,4 @@ def comparador_suffix_array_lexico(ruta1, ruta2, salida="resultado_suffix.txt"):
     print(f"Resultado guardado en {salida}")
 
 if __name__ == "__main__":
-    comparador_suffix_array_lexico("ejemplo1.c", "ejemplo2.c")
+    comparador_suffix_array_lexico("Cfiles/ejercicio_1.c", "cfiles/ejercicio_2.c")

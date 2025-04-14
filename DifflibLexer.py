@@ -32,8 +32,8 @@ def compare_files(lines1, lines2): # Funcion para comparar lineas de codigo
     
 if __name__ == "__main__":
     # Cambia estos nombres de archivo por los que desees comparar
-    path1 = 'files/sudoku.py'
-    path2 = 'files/password_manager.py'
+    path1 = 'pythonfiles/sudoku.py'
+    path2 = 'pythonfiles/password_manager.py'
     
     file1_lines = read_file(path1)
     file2_lines = read_file(path2)
